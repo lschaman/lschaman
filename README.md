@@ -85,7 +85,7 @@ Email Me
 </a>
 
 <a href="https://leetcode.com/" target="_blank">
-  <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/16.webp" width="50">
+  <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/15.webp" width="50">
 </a>
 
 </p>
