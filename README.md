@@ -26,7 +26,7 @@
 <h3>🌱 Currently Learning</h3>
 
 <p>
-Exploring <b>DevOps</b> to streamline development processes and <b>AI/ML</b> to drive innovation.
+Exploring <b>DevOps & LLM </b> to streamline development processes and <b>AI/ML</b> to drive innovation.
 </p>
 
 <h3>👨‍💻 Projects</h3>
@@ -46,7 +46,7 @@ Python, Machine Learning, Computer Vision & React.js.
 <h3>📬 Get in Touch</h3>
 
 <p>
-<a href="mailto:chamanjangir.work@gmail.com">
+<a href="mailto:jangidchamann@gmail.com">
 Email Me
 </a>
 </p>
@@ -54,7 +54,7 @@ Email Me
 <h3>📄 My Resume</h3>
 
 <p>
-<a href="https://drive.google.com/file/d/1vTcAx1xSqmCB2fY7N3SQuWuGfaNkh_XZ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1LBLAPD2MpbidVhlElSrc4OxCmtYWZFqF/view?usp=sharing">
 📑 View Here
 </a>
 </p>
@@ -67,7 +67,7 @@ Email Me
 
 <p>
 
-<a href="https://x.com/chamannjangir" target="_blank">
+<a href="https://x.com/chamannjangid" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/11.png" width="50">
 </a>
 
@@ -120,7 +120,7 @@ Hello! I'm <b>Chaman Jangid</b>, a passionate <b>Full-Stack Developer 💻</b> a
 
 I enjoy creating real-world projects that solve practical problems and improve user experiences. Over time, I have developed multiple projects in areas like <b>web development, automation systems, AI-based applications, and object detection systems</b>. Working on projects has strengthened my problem-solving abilities, creativity, and development skills.
 
-My primary tech stack includes <b>Python, Machine Learning, Computer Vision, OpenCV, CNN Basics, React.js, REST APIs, and Basic DevOps</b>. I am also exploring <b>DevOps ⚙️, Machine Learning 🤖, and Cloud Technologies ☁️</b> to build efficient and production-ready applications.
+My primary tech stack includes <b>Python, Machine Learning, Computer Vision, OpenCV, CNN Basics, React.js, REST APIs, and Basic DevOps</b>. I am also exploring <b>DevOps ⚙️, Machine Learning 🤖,</b> to build efficient and production-ready applications.
 
 I am passionate about learning new technologies, improving my coding skills, and continuously challenging myself through development and problem-solving. I love transforming ideas into interactive and impactful digital products.
 
@@ -138,7 +138,7 @@ Beyond coding, I enjoy exploring UI/UX design, system architecture, and modern d
 • Computer Vision<br>
 • Building Real-World Projects<br>
 • Problem Solving & DSA<br>
-• DevOps & Cloud Learning<br>
+• DevOps<br>
 
  <b>Let's Connect 🤝:</b><br>
 
@@ -161,7 +161,7 @@ I’m always excited to collaborate on innovative projects, explore new technolo
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamann_jangir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamanjangid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chamanjangir.work@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamann_jangir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamanjangid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangidchamann@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
