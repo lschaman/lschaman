@@ -105,10 +105,10 @@ Email Me
 
 <p align="center">
 <img src="https://img.shields.io/badge/Project Management-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Agile Delivery-64DD17?style=rounded-square"/>
-<img src="https://img.shields.io/badge/MERN-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Full Stack-FF69B4?style=rounded-square"/>
-<img src="https://img.shields.io/badge/Next.js-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Production Apps-2196F3?style=rounded-square"/>
+<!-- <img src="https://img.shields.io/badge/MERN-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Full Stack-FF69B4?style=rounded-square"/> -->
+<!-- <img src="https://img.shields.io/badge/Next.js-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Production Apps-2196F3?style=rounded-square"/> -->
 <img src="https://img.shields.io/badge/DSA-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Problem Solving-FF5722?style=rounded-square"/>
-<img src="https://img.shields.io/badge/DevOps-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Learning-FF5722?style=rounded-square"/>
+<!-- <img src="https://img.shields.io/badge/DevOps-4B4B4B?style=rounded-square"/><img src="https://img.shields.io/badge/Learning-FF5722?style=rounded-square"/> -->
 </p>
 <hr>
 
@@ -138,7 +138,7 @@ Beyond coding, I enjoy exploring UI/UX design, system architecture, and modern d
 • Computer Vision<br>
 • Building Real-World Projects<br>
 • Problem Solving & DSA<br>
-• DevOps<br>
+<br>
 
  <b>Let's Connect 🤝:</b><br>
 
@@ -164,7 +164,7 @@ I’m always excited to collaborate on innovative projects, explore new technolo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamann_jangir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamanjangid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangidchamann@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <hr>
 
