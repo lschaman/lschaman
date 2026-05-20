@@ -54,7 +54,7 @@ Email Me
 <h3>📄 My Resume</h3>
 
 <p>
-<a href="https://drive.google.com/file/d/1LBLAPD2MpbidVhlElSrc4OxCmtYWZFqF/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1P4DK96G4mNEA5LJy7sJlBYfD27L3-QHO/view?usp=sharing">
 📑 View Here
 </a>
 </p>
