@@ -32,7 +32,7 @@ Exploring <b>DevOps & LLM </b> to streamline development processes and <b>AI/ML<
 <h3>👨‍💻 Projects</h3>
 
 <p>
-🚀 <a href="https://github.com/lschaman?tab=repositories">
+🚀 <a href="">
 Check out my projects
 </a>
 </p>
@@ -54,7 +54,7 @@ Email Me
 <h3>📄 My Resume</h3>
 
 <p>
-<a href="https://drive.google.com/file/d/1P4DK96G4mNEA5LJy7sJlBYfD27L3-QHO/view?usp=sharing">
+<a href="">
 📑 View Here
 </a>
 </p>
@@ -67,24 +67,24 @@ Email Me
 
 <p>
 
-<a href="https://x.com/chamannjangid" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/11.png" width="50">
 </a>
 
 
-<a href="https://www.linkedin.com/in/chamanjangid/" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/12.png" width="50">
 </a>
 
-<a href="https://www.instagram.com/chamann_jangir/" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/13.png" width="50">
 </a>
 
-<a href="https://www.youtube.com/@ChamannJangir" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/14.png" width="50">
 </a>
 
-<a href="https://leetcode.com/" target="_blank">
+<a href="" target="_blank">
   <img src="https://github.com/lschaman/lschaman/blob/main/assets/gifts/15.webp" width="50">
 </a>
 
@@ -161,7 +161,7 @@ I’m always excited to collaborate on innovative projects, explore new technolo
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chamann_jangir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chamanjangid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangidchamann@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]() 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -177,7 +177,7 @@ I’m always excited to collaborate on innovative projects, explore new technolo
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lschaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=lschaman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lschaman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
